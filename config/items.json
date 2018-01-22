@@ -1,0 +1,23 @@
+{
+  "Damned" : {
+    "img": "config/bart.gif",
+    "audio": "config/bart.mp3"
+  },
+  "SpiderMonkey" : {
+    "img": "config/spider-monkey.png",
+    "audio": "config/spider-monkey.mp3"
+  },
+  "Disappointed" : {
+    "img": "config/disappointed.jpg",
+    "audio": "config/disappointed.mp3"
+  },
+  "WhoCares" : {
+    "img": "config/whocares.jpg",
+    "audio": "config/whocares.mp3"
+  },
+  "TooQuiet" : {
+    "img": "config/peppy.jpg",
+    "audio": "config/pep2quiet.wav"
+  }
+ }
+
