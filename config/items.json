@@ -18,6 +18,10 @@
   "TooQuiet" : {
     "img": "config/peppy.jpg",
     "audio": "config/pep2quiet.wav"
+  },
+  "YourOpinion" : {
+    "img": "config/thedude.jpg",
+    "audio": "config/youropinion.mp3"
   }
  }
 
