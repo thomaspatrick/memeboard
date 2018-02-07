@@ -36,4 +36,9 @@
     "audio": "config/makeItSo.mp3"
   }
  }
+  "ShutItDown" : {
+    "img": "config/shutitdown.jpg",
+    "audio": "config/shutitdown.mp3"
+  }
+ }
 
