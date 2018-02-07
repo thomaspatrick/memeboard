@@ -30,6 +30,10 @@
   "MoreBrisket" : {
     "img": "config/morebrisket.jpg",
     "audio": "config/morebrisket.mp3"
+  },
+  "MakeItSo" : {
+    "img": "config/makeItSo.jpg",
+    "audio": "config/makeItSo.mp3"
   }
  }
 
