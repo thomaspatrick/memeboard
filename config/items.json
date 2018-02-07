@@ -38,6 +38,18 @@
   "ShutItDown" : {
     "img": "config/shutitdown.jpg",
     "audio": "config/shutitdown.mp3"
+  },
+  "Failures" : {
+    "img": "config/failures.jpg",
+    "audio": "config/failures.mp3"
+  },
+  "WantToDie" : {
+    "img": "config/ijustwanttodie.jpg",
+    "audio": "config/ijustwanttodie.mp3"
+  },
+  "RopedIn" : {
+    "img": "config/ropedin.jpg",
+    "audio": "config/ropedin.mp3"
   }
  }
 
