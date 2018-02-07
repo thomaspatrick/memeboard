@@ -22,6 +22,10 @@
   "YourOpinion" : {
     "img": "config/thedude.jpg",
     "audio": "config/youropinion.mp3"
+  },
+  "Inception" : {
+    "img": "config/inception.jpg",
+    "audio": "config/inception.mp3"
   }
  }
 
