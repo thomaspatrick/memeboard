@@ -54,6 +54,10 @@
   "Agression" : {
     "img": "config/aggression.jpg",
     "audio": "config/aggression.mp3"
+  },
+  "Nooooo" : {
+    "img": "config/nooooo.jpg",
+    "audio": "config/nooooo.mp3"
   }
  }
 
