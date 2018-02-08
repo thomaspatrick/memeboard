@@ -35,6 +35,22 @@
     "img": "config/makeItSo.jpg",
     "audio": "config/makeItSo.mp3"
   },
+  "ShutItDown" : {
+    "img": "config/shutitdown.jpg",
+    "audio": "config/shutitdown.mp3"
+  },
+  "Failures" : {
+    "img": "config/failures.jpg",
+    "audio": "config/failures.mp3"
+  },
+  "WantToDie" : {
+    "img": "config/ijustwanttodie.jpg",
+    "audio": "config/ijustwanttodie.mp3"
+  },
+  "RopedIn" : {
+    "img": "config/ropedin.jpg",
+    "audio": "config/ropedin.mp3"
+  },
   "Agression" : {
     "img": "config/aggression.jpg",
     "audio": "config/aggression.mp3"
