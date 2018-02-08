@@ -34,6 +34,10 @@
   "MakeItSo" : {
     "img": "config/makeItSo.jpg",
     "audio": "config/makeItSo.mp3"
+  },
+  "Agression" : {
+    "img": "config/aggression.jpg",
+    "audio": "config/aggression.mp3"
   }
  }
 
