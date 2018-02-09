@@ -58,6 +58,14 @@
   "Nooooo" : {
     "img": "config/nooooo.jpg",
     "audio": "config/nooooo.mp3"
+  },
+  "StopMe" : {
+    "img": "config/stopme.jpg",
+    "audio": "config/stopme.mp3"
+  },
+  "PacMan" : {
+    "img": "config/pacman.jpg",
+    "audio": "config/pacman.mp3"
   }
  }
 
