@@ -66,6 +66,18 @@
   "PacMan" : {
     "img": "config/pacman.jpg",
     "audio": "config/pacman.mp3"
+  },
+  "OnMyPlate" : {
+    "img": "config/freezertoplate.png",
+    "audio": "config/freezertoplate.mp3"
+  },
+  "Selfish" : {
+    "img": "config/selfish.png",
+    "audio": "config/selfish.mp3"
+  },
+  "12ofThem" : {
+    "img": "config/iwant12.png",
+    "audio": "config/iwant12.mp3"
   }
  }
 
