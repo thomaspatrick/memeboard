@@ -79,5 +79,10 @@
     "img": "config/iwant12.png",
     "audio": "config/iwant12.mp3"
   }
+,
+  "WorkWork" : {
+    "img": "config/peon.png",
+    "audio": "config/peon.mp3"
+  }
  }
 
