@@ -84,5 +84,11 @@
     "img": "config/peon.png",
     "audio": "config/peon.mp3"
   }
+,
+  "highnoon" : {
+    "img": "config/highnoon.png",
+    "audio": "config/highnoon.mp3"
+  }
  }
+
 
