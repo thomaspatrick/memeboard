@@ -89,6 +89,13 @@
     "img": "config/highnoon.png",
     "audio": "config/highnoon.mp3"
   }
+,
+  "Freakingout" : {
+    "img": "config/Freakingout.jpg",
+    "audio": "config/Freakingout.mp3"
+  }
  }
+
+
 
 
