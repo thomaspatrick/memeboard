@@ -108,7 +108,12 @@
   "getoverhere" : {
     "img": "config/getoverhere.png",
     "audio": "config/getoverhere.mp3"
-  }  
+  } 
+,
+  "goodluck" : {
+    "img": "config/goodluck.png",
+    "audio": "config/goodluck.mp3"
+  }   
  }
 
 
