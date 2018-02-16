@@ -94,6 +94,11 @@
     "img": "config/Freakingout.jpg",
     "audio": "config/Freakingout.mp3"
   }
+,
+  "notthatkindoforc" : {
+    "img": "config/notthatkindoforc.jpg",
+    "audio": "config/notthatkindoforc.mp3"
+  }
  ,
   "lateparrotshort" : {
     "img": "config/lateparrotshort.png",
