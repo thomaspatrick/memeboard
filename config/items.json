@@ -118,7 +118,12 @@
   "gettinweird" : {
     "img": "config/gettinweird.png",
     "audio": "config/gettinweird.mp3"
-  }   
+  } 
+,
+  "screwyouguys" : {
+    "img": "config/screwyouguys.png",
+    "audio": "config/screwyouguys.mp3"
+  }    
  }
 
 
