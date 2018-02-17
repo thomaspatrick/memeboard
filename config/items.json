@@ -114,6 +114,11 @@
     "img": "config/goodluck.png",
     "audio": "config/goodluck.mp3"
   }   
+,
+  "gettinweird" : {
+    "img": "config/gettinweird.png",
+    "audio": "config/gettinweird.mp3"
+  }   
  }
 
 
