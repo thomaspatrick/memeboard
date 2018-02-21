@@ -123,6 +123,11 @@
   "screwyouguys" : {
     "img": "config/screwyouguys.png",
     "audio": "config/screwyouguys.mp3"
+  }
+,
+  "realbadpam" : {
+    "img": "config/realbadpam.png",
+    "audio": "config/realbadpam.mp3"
   }    
  }
 
