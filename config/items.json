@@ -128,7 +128,12 @@
   "realbadpam" : {
     "img": "config/realbadpam.png",
     "audio": "config/realbadpam.mp3"
-  }    
+  } 
+,
+  "thankyou" : {
+    "img": "config/thankyou.png",
+    "audio": "config/thankyou.mp3"
+  }       
  }
 
 
