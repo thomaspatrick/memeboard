@@ -108,17 +108,17 @@
   "getoverhere" : {
     "img": "config/getoverhere.png",
     "audio": "config/getoverhere.mp3"
-  } 
+  }
 ,
   "goodluck" : {
     "img": "config/goodluck.png",
     "audio": "config/goodluck.mp3"
-  }   
+  }
 ,
   "gettinweird" : {
     "img": "config/gettinweird.png",
     "audio": "config/gettinweird.mp3"
-  } 
+  }
 ,
   "screwyouguys" : {
     "img": "config/screwyouguys.png",
@@ -128,15 +128,15 @@
   "realbadpam" : {
     "img": "config/realbadpam.png",
     "audio": "config/realbadpam.mp3"
-  } 
+  }
 ,
   "thankyou" : {
     "img": "config/thankyou.png",
     "audio": "config/thankyou.mp3"
-  }       
- }
-
-
-
-
-
+  }
+,
+  "ninjasdonthug" : {
+    "img": "config/ninjasdonthug.png",
+    "audio": "config/ninjasdonthug.mp3"
+  }
+}
