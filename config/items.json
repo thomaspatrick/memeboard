@@ -139,4 +139,9 @@
     "img": "config/ninjasdonthug.png",
     "audio": "config/ninjasdonthug.mp3"
   }
+,
+  "soaverage" : {
+    "img": "config/soaverage.png",
+    "audio": "config/soaverage.mp3"
+  }
 }
